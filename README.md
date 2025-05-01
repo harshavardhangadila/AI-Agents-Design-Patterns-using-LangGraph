@@ -1,9 +1,11 @@
 # AI-Agents-Design-Patterns
 
-### LangGraph Agent Patterns: 7 Practical Designs with LangSmith Traces and using Groq llama3-8b-8192
+### LangGraph Agent Patterns: 
+#### 7 Practical Designs with LangSmith Traces and using Groq llama3-8b-8192
 This repository demonstrates seven powerful agentic design patterns implemented with LangGraph, showcasing robust AI agent workflows. Each section includes detailed Mermaid diagrams, practical Python implementations, and comprehensive tracing via LangSmith, enabling easy debugging and step-by-step visibility into agent decision-making processes powered by Groq LLMs.
 
-### CrewAI Agent Patterns: 7 Practical Designs using Groq DeepSeek LLaMA 70B
+### CrewAI Agent Patterns: 
+#### 7 Practical Designs using Groq deepseek-r1-distill-llama-70b
 This repository demonstrates seven powerful agent patterns implemented with CrewAI and Groq's deepseek-r1-distill-llama-70b. Each design includes detailed workflows, clearly defined agent roles, practical Python implementations, and executable Colab examples for ease of experimentation.
 
 
